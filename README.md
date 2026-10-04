@@ -1,150 +1,91 @@
 # Hi, I'm Ikromjon 👋
 
-### AI/ML Engineer | Computer Vision | Generative AI | Data & Predictive Analytics
+### AI/ML Engineer | Computer Vision | Deep Learning | Applied ML
 
-I am an AI/ML engineer focused on building practical AI systems that solve real-world problems across **computer vision, voice AI, predictive analytics, and intelligent applications**.
+I build practical AI systems that move from model development and experimentation to usable applications and deployment.
 
-My work combines research, engineering, and deployment — from training machine learning models to building APIs, interactive applications, and production-oriented AI pipelines.
-
----
-
-## 🚀 Featured AI/ML Projects
-
-### 🏆 AOROA Labs — AI/ML Assignment
-
-**E-commerce Analytics • Customer Segmentation • Sales Forecasting**
-
-An end-to-end AI/ML analytics pipeline covering EDA, customer segmentation, time-series forecasting, rolling backtesting, robustness analysis, and final 7-day forecasting.
-
-**Highlights**
-
-* K-Means customer segmentation with **K=4**
-* RFM-style behavioral and monetary features
-* Trend + Weekday + Fourier forecasting
-* Leakage-free rolling backtesting
-* **8.53% MAPE** on the selected forecasting model
-* Reproducible Python modules and analysis notebooks
-
-🔗 `AOROA-Labs-AI-ML-Assignment`
+My strongest areas are **computer vision, deep learning, applied machine learning, speech AI, and ML evaluation**.
 
 ---
 
-### 🎙️ AI Voice Studio
-
-**Voice AI • Speech Processing • AI Application**
-
-An AI-powered voice application focused on speech interaction and intelligent audio processing.
-
-**Focus**
-
-* AI voice interaction
-* Speech processing
-* Voice generation / recognition
-* Interactive AI application development
-* Python-based AI pipeline
-
-🔗 `Ai-voice-studio`
-
----
-
-### 👁️ Kuzatuv AI
-
-**Computer Vision • YOLO • Object Tracking • Analytics**
-
-A computer vision system designed for real-time object detection, tracking, and visual analytics.
-
-**Technology**
-
-* YOLO
-* ByteTrack
-* OpenCV
-* Python
-* FastAPI
-* REST API
-* Computer Vision
-
-The project extends object detection into practical tracking and analytics workflows, including people/vehicle monitoring and visual statistics.
-
-🔗 `Kuzatuv-AI`
-
----
+## ⭐ Featured Projects
 
 ### 🌱 Ekinly AI
+**Deep Learning · Computer Vision · Plant Disease Classification**
 
-**AI Agriculture • Machine Learning • Intelligent Farming**
+Hybrid **MobileNetV2 + EfficientNetB0** feature-fusion model for 38-class plant disease classification using PlantVillage. Includes selective fine-tuning, evaluation, Gradio application, and Hugging Face deployment.
 
-An AI-focused agriculture project exploring how machine learning and computer vision can be applied to agricultural problems.
+**Key result:** 98.90% validation accuracy on the documented PlantVillage evaluation setup.
 
-**Focus**
+🔗 https://github.com/ikromjon-gif/Ekinly-AI
 
-* AI for agriculture
-* Plant-related analysis
-* Machine learning
-* Computer vision
-* Intelligent farming solutions
+### ⚽ Kuzatuv AI
+**Computer Vision · YOLO11 · ByteTrack · Sports Analytics**
 
-The project reflects my interest in applying AI beyond software products to real-world domains such as agriculture.
+Video-based football analytics pipeline covering object detection, multi-object tracking, jersey/team classification, camera-motion estimation, trajectories, and player-motion statistics.
 
-🔗 `Ekinly-AI`
+🔗 https://github.com/ikromjon-gif/Kuzatuv-AI
 
----
+### 📈 AOROA Labs — ML Analytics
+**Customer Segmentation · Time-Series Forecasting · Reproducible ML**
 
-## 🧠 Technical Skills
+End-to-end e-commerce analytics pipeline with customer segmentation, chronological rolling validation, forecasting model comparison, reproducibility checks, and business experimentation design.
 
-**AI / Machine Learning**
+**Key result:** Trend + Weekday + Fourier achieved 8.526% MAPE in the documented rolling-validation evaluation.
 
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy`
+🔗 https://github.com/ikromjon-gif/AOROA-Labs-AI-ML-Assignment
 
-**Computer Vision**
+### 🎙️ AI Voice Studio
+**Speech AI · TTS · ASR · Multilingual AI**
 
-`YOLO` `OpenCV` `Object Tracking` `ByteTrack` `Image Segmentation`
+Multilingual speech application supporting Uzbek, English, and Korean with Hugging Face MMS TTS, Whisper Large V3 Turbo, audio enhancement, lazy model loading, and Hugging Face deployment.
 
-**Generative & Voice AI**
-
-`LLM` `Speech AI` `TTS` `STT` `Voice AI`
-
-**Data & Forecasting**
-
-`EDA` `K-Means` `Time Series` `Fourier Features` `Feature Engineering` `Rolling Backtesting`
-
-**Backend & Deployment**
-
-`FastAPI` `Flask` `Gradio` `Docker` `Hugging Face` `REST API`
-
-**Development**
-
-`Git` `GitHub` `Google Colab` `Linux`
+🔗 https://github.com/ikromjon-gif/Ai-voice-studio
 
 ---
 
-## 🔬 Research & Interests
+## 🧠 Core Skills
 
-* Artificial Intelligence & Machine Learning
-* Computer Vision
-* Voice AI and Speech Processing
-* Generative AI
-* AI for Agriculture
-* Predictive Analytics
-* Intelligent Automation
-* Applied Deep Learning
+**Machine Learning:** Python · Scikit-learn · Pandas · NumPy · Feature Engineering · Model Evaluation
 
----
+**Deep Learning:** TensorFlow · Keras · PyTorch · Transfer Learning · Fine-tuning · CNN
 
-## 📌 Currently
+**Computer Vision:** YOLO11 · OpenCV · ByteTrack · Image Classification · Object Tracking
 
-* Building practical AI/ML systems
-* Improving production-oriented ML engineering skills
-* Exploring Computer Vision and Generative AI
-* Developing AI solutions for Korean and international markets
+**Speech AI:** Whisper · TTS · ASR · Transformers · Audio Processing
+
+**Data & Forecasting:** EDA · K-Means · Time Series · Fourier Features · Rolling Backtesting
+
+**Deployment:** FastAPI · Gradio · Docker · Hugging Face Spaces · REST API
+
+**Engineering:** Git · GitHub · Linux · Google Colab
 
 ---
 
-## 📫 Connect With Me
+## 🔬 Research Interests
 
-**GitHub:** [github.com/ikromjon-gif](https://github.com/ikromjon-gif)
-
-**LinkedIn:** [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/ikrombek-tojiboyev/)
+- Applied Deep Learning
+- Computer Vision
+- Plant Disease Classification
+- Sports Computer Vision
+- Speech & Multilingual AI
+- Predictive Analytics
+- Model Evaluation & Reproducibility
+- AI for Real-World Applications
 
 ---
 
-> **Building AI systems that move from research to real-world applications.**
+## 🎓 Education
+
+**M.S. Computer Engineering — Chonnam National University**
+
+Research focus: hybrid deep learning and computer vision for plant disease classification.
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/ikromjon-gif
+- LinkedIn: https://www.linkedin.com/in/ikrombek-tojiboyev/
+
+> **Building practical AI systems with measurable results.**
