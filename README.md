@@ -36,9 +36,9 @@ End-to-end e-commerce analytics pipeline with customer segmentation, chronologic
 🔗 https://github.com/ikromjon-gif/AOROA-Labs-AI-ML-Assignment
 
 ### 🔎 DeepResearch Agent
-**LLM Applications · RAG · Research Automation · FastAPI**
+**LLM Applications · RAG · Research Automation**
 
-A multilingual research assistant combining PDF/TXT document analysis, DDGS web search, optional ChromaDB retrieval, evidence-grounded synthesis, citations, and conversation context. Streamlit frontend with FastAPI backend, deployed on Streamlit Cloud and Render.
+Multilingual research assistant for PDF/TXT analysis, DDGS web search, evidence synthesis, and cited reports. Stack: **Python, Streamlit, FastAPI, LangGraph, LangChain, DeepSeek, ChromaDB, pypdf, HTTPX, BeautifulSoup4**. Deployed on Streamlit Cloud + Render.
 
 🔗 Frontend: https://github.com/ikromjon-gif/Deepresearch-agent  
 🔗 Backend API: https://github.com/ikromjon-gif/deepresearch-agent-api  
