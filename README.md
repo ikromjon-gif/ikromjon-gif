@@ -35,6 +35,15 @@ End-to-end e-commerce analytics pipeline with customer segmentation, chronologic
 
 🔗 https://github.com/ikromjon-gif/AOROA-Labs-AI-ML-Assignment
 
+### 🔎 DeepResearch Agent
+**LLM Applications · RAG · Research Automation · FastAPI**
+
+A multilingual research assistant combining PDF/TXT document analysis, DDGS web search, optional ChromaDB retrieval, evidence-grounded synthesis, citations, and conversation context. Streamlit frontend with FastAPI backend, deployed on Streamlit Cloud and Render.
+
+🔗 Frontend: https://github.com/ikromjon-gif/Deepresearch-agent  
+🔗 Backend API: https://github.com/ikromjon-gif/deepresearch-agent-api  
+🚀 Demo: https://deepresearch-agent-fmtiypqkmeago2zzqhdn2p.streamlit.app
+
 ### 🎙️ AI Voice Studio
 **Speech AI · TTS · ASR · Multilingual AI**
 
@@ -52,11 +61,13 @@ Multilingual speech application supporting Uzbek, English, and Korean with Huggi
 
 **Computer Vision:** YOLO11 · OpenCV · ByteTrack · Image Classification · Object Tracking
 
+**LLM Applications:** LangChain · RAG · ChromaDB · Prompt Engineering · FastAPI · REST APIs
+
 **Speech AI:** Whisper · TTS · ASR · Transformers · Audio Processing
 
 **Data & Forecasting:** EDA · K-Means · Time Series · Fourier Features · Rolling Backtesting
 
-**Deployment:** FastAPI · Gradio · Docker · Hugging Face Spaces · REST API
+**Deployment:** FastAPI · Gradio · Docker · Hugging Face Spaces · Streamlit · Render
 
 **Engineering:** Git · GitHub · Linux · Google Colab
 
